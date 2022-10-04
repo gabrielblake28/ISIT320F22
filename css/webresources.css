@@ -1,0 +1,13 @@
+.star-color {
+    color: rgb(201, 171, 0);
+}
+
+.rating-wrapper {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+}
+
+.rating-title {
+ margin-right: 5px;
+}
